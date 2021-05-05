@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IC_Count</folder>
+	<filename>IMG_8561.jpg</filename>
+	<path>/home/jose/IC_Count/IMG_8561.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>460</xmin>
+			<ymin>187</ymin>
+			<xmax>532</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>
